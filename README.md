@@ -1,67 +1,94 @@
+<!-- BANNER -->
 <h1 align="center">Mohammed Mansouri</h1>
-<h3 align="center">Engineering Student • Cloud & Full Stack Developer</h3>
+<h3 align="center">AI & Data • Cloud • Full Stack Engineer</h3>
+
+<p align="center">
+Engineering Student | AI & Cloud Enthusiast | Future Tech Entrepreneur
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 Engineering student in Computer Science & Artificial Intelligence  
-💼 Currently in apprenticeship (software engineering / IT environment)  
-🤖 Passionate about AI integration, automation and scalable systems  
-☁️ Interested in Cloud Computing (Azure / AWS)  
-🚀 Goal: Build impactful tech solutions & develop freelance projects before 2030  
-
----
-
-## 🛠 Technical Skills
-
-### Programming Languages
-Python • Java • JavaScript • C • Smalltalk • MATLAB
-
-### Web Development
-HTML • CSS • JavaScript  
-Node.js • Angular • React (basics)  
-REST APIs • JWT Authentication • MVC architecture
-
-### Databases
-SQL • MongoDB
-
-### Tools & Environments
-Git • GitHub • Linux • VS Code  
-Postman • Jira • Confluence  
-
-### System & Engineering
-UML • System Design  
-Arduino • Embedded Systems (ARM, STM32)
-
-### Cloud / DevOps (Learning)
-Azure Fundamentals (in progress)  
-Docker • API deployment basics
+🎓 Engineering student in Computer Science & AI  
+💼 Currently in apprenticeship (software engineering environment)  
+🤖 Interested in AI integrations, automation & cloud systems  
+☁️ Preparing Azure Cloud certification  
+🎯 Goal: Build impactful tech solutions & freelance projects before 2030  
 
 ---
 
-## 🤖 AI & Machine Learning Focus
+## 📊 GitHub Stats (Dynamic)
 
-- Machine Learning models (SVM, RF, MLP, GNB)
-- AI integration in applications
-- Prompt Engineering certification (Vanderbilt – 2025)
-- Automation tools & AI-powered workflows
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medmansouri25&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmansouri25&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmansouri25&theme=react-dark"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![C](https://img.shields.io/badge/C-grey?logo=c)
+
+---
+
+### 🌐 Web Development
+![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
+---
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+---
+
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?logo=openai)
+
+---
+
+### ☁️ Cloud / DevOps
+![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+
+---
+
+## 🏆 Certifications
+
+🎓 Prompt Engineering – Vanderbilt University (2025)  
+☁️ Azure Cloud Fundamentals (in progress)  
+🎓 Meta Front-End Development (2025)  
+🇬🇧 TOEIC Preparation (Target 750+)
 
 ---
 
 ## 📂 Key Projects
 
-♟️ **Connected Electronic Chessboard**  
-Arduino + sensors + AI Minimax algorithm + LCD display  
-
-📊 **Language Identification ML Project**  
-Training and comparing ML models for language detection  
-
-🌐 **Task Management Web App**  
-Angular + Spring Boot REST API (MVC architecture)
-
-🍹 **Rhum Recipes API**  
-Node.js + MongoDB backend with JWT authentication  
+♟️ Electronic Chessboard AI (Arduino + Sensors + Minimax AI)  
+🌐 Task Management App (Angular + Spring Boot API)  
+🍹 Rhum Recipes API (Node.js + MongoDB + JWT)  
+📊 Language Identification ML Project  
 
 ---
 
@@ -69,16 +96,16 @@ Node.js + MongoDB backend with JWT authentication
 
 Arabic — Fluent (C2)  
 French — Advanced (C1)  
-English — Upper-Intermediate (B2, TOEIC target 750+)  
+English — Upper Intermediate (B2)  
 Spanish — Basic (A2)
 
 ---
 
-## 📫 Contact & Portfolio
+## 📫 Contact
 
-📧 mansouri.2506@gmail.com 
-🌐 Portfolio : https://medmansouri25.github.io/  
+📧 mansouri.2506@gmail.com  
+🌐 Portfolio → https://medmansouri25.github.io/  
 
 ---
 
-⭐ Always open to collaboration, internships, freelance opportunities and innovative tech projects.
+⭐ Always open to internships, freelance opportunities and innovative tech projects.
