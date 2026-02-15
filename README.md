@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Mansouri</h1>
-<h3 align="center">Engineering Student • AI Integration • Cloud & Full Stack Developer</h3>
+<h3 align="center">Engineering Student • Cloud & Full Stack Developer</h3>
 
 ---
 
