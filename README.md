@@ -18,25 +18,14 @@ Engineering Student | AI & Cloud Enthusiast | Future Tech Entrepreneur
 
 ---
 
-## 📈 My GitHub Activity
-
-
+## 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medmansouri25&theme=matrix&margin-w=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmansouri25&theme=github-compact&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medmansouri25&theme=chartreuse-dark&show_icons=true"/>
-</p>
-
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmansouri25&theme=react-dark"/>
+  <i>Consistency beats intensity — building skills step by step 🚀</i>
 </p>
 
 ---
