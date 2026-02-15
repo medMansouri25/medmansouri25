@@ -18,18 +18,21 @@ Engineering Student | AI & Cloud Enthusiast | Future Tech Entrepreneur
 
 ---
 
-## 📊 GitHub Stats (Dynamic)
+## 📈 My GitHub Activity
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medmansouri25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmansouri25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medmansouri25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=medmansouri25&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmansouri25&layout=donut&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=medmansouri25&theme=react-dark"/>
+
+</div>
 
 
 ---
