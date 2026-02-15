@@ -20,7 +20,7 @@ Engineering Student | AI & Cloud Enthusiast | Future Tech Entrepreneur
 
 ## 📈 My GitHub Activity
 
-## 🤖 AI Developer Stats
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=medmansouri25&theme=matrix&margin-w=15"/>
