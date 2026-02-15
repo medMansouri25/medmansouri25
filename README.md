@@ -13,8 +13,6 @@ Engineering Student | AI & Cloud Enthusiast
 🎓 Engineering student in Computer Science & AI  
 💼 Currently in apprenticeship (software engineering environment)  
 🤖 Interested in AI integrations, automation & cloud systems  
-☁️ Preparing Azure Cloud certification  
-🎯 Goal: Build impactful tech solutions & freelance projects before 2030  
 
 ---
 
