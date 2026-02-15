@@ -3,7 +3,7 @@
 <h3 align="center">AI & Data • Cloud • Full Stack Engineer</h3>
 
 <p align="center">
-Engineering Student | AI & Cloud Enthusiast | Future Tech Entrepreneur
+Engineering Student | AI & Cloud Enthusiast 
 </p>
 
 ---
