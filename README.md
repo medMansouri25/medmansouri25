@@ -20,10 +20,17 @@ Engineering Student | AI & Cloud Enthusiast | Future Tech Entrepreneur
 
 ## 📊 GitHub Stats (Dynamic)
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medmansouri25&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmansouri25&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=medmansouri25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmansouri25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=medmansouri25&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 
 ---
 
@@ -108,4 +115,4 @@ Spanish — Basic (A2)
 
 ---
 
-⭐ Always open to internships, freelance opportunities and innovative tech projects.
+⭐ Always open to innovative tech projects.
