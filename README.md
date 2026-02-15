@@ -10,9 +10,10 @@ Engineering Student | AI & Cloud Enthusiast
 
 ## 🚀 About Me
 
-<p>🎓 Engineering student in Computer Science & AI  
-💼 Currently in apprenticeship (software engineering environment)  
-🤖 Interested in AI integrations, automation & cloud systems  </p>
+<p>🎓 Engineering student in Computer Science & AI </p> 
+<p>💼 Currently in apprenticeship (software engineering environment)  </p> 
+<p>🤖 Interested in AI integrations, automation & cloud systems </p>
+
 ---
 
 ## 📊 Development Activity
