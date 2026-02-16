@@ -21,7 +21,9 @@ Engineering Student | AI & Cloud Enthusiast
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmansouri25&theme=github-compact&hide_border=true"/>
 </p>
-
+<p align="center">
+<p align="center">
+  <img src="https://ghchart.rshah.org/medmansouri25"/>
 <p align="center">
   <i>Consistency beats intensity — building skills step by step 🚀</i>
 </p>
