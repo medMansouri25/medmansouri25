@@ -19,7 +19,7 @@ Engineering Student | AI & Cloud Enthusiast
 ## 📊 Development Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/medmansouri25" alt="GitHub Contributions Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmansouri25&theme=github-compact&hide_border=true"/>
 </p>
 
 <p align="center">
