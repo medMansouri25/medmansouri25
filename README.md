@@ -23,12 +23,13 @@ Engineering Student | AI & Cloud Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/medmansouri25"/>
+  <img src="https://ghchart.rshah.org/medmansouri25" width="900"/>
 </p>
 
 <p align="center">
   <i>Consistency beats intensity — building skills step by step 🚀</i>
 </p>
+
 
 
 ---
