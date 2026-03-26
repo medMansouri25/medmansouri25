@@ -12,8 +12,6 @@
 ### `AI & Data` · `Cloud` · `Full Stack Engineering`
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://medmansouri25.github.io/)
-[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge)](mailto:mansouri.2506@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -122,7 +120,5 @@ Spanish  ████░░░░░░░░░░░░░░░░  A2 — Ba
 **⭐ Always open to innovative tech projects — feel free to reach out!**
 
 [![Portfolio](https://img.shields.io/badge/medmansouri25.github.io-000?style=flat-square&logo=github)](https://medmansouri25.github.io/)
-&nbsp;·&nbsp;
-[![Email](https://img.shields.io/badge/mansouri.2506@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mansouri.2506@gmail.com)
 
 </div>
